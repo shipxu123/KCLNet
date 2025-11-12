@@ -1,0 +1,22 @@
+# -*- mode: Conf -*-
+*.swp
+*.pyc
+*.ipynb
+__pycache__
+checkpoints
+events
+log.txt
+figs
+flod_circuit
+results
+log.train.default*
+**.DS_Store**
+.env
+.idea/
+debug/
+*.txt
+run.sh
+fold_circuit
+output
+arl/data/CB*
+arl/data/CV*
